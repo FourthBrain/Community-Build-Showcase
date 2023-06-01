@@ -8,3 +8,18 @@
 Hello, and welcome to a showcase of a number of *amazing* projects put together by the talented people who have participated in FourthBrain's programs!
 
 # <h1 align="center" id="heading"> 🔡 LLM Projects </h1>
+
+
+
+
+## <h2 align="centre" id="heading"> How to Contribute to this Repository 🏗️ </h2>
+
+If your project doesn't fit into an existing category - please feel free to add it along with your PR to add your project!
+
+\### `<<YOUR PROJECT NAME>>`
+
+`<< SHORT PROJECT DESCRIPTION>>`
+
+\<img src="<<`LINK TO AN IMAGE OF YOUR DEMO`>>"  width="200px" height="auto"/>
+
+\[`<<Description of Link>>`](`<<LINK TO YOUR PROJECT REPOSITORY>>`)
