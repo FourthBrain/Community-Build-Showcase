@@ -10,9 +10,7 @@ Hello, and welcome to a showcase of a number of *amazing* projects put together 
 # <h1 align="center" id="heading"> 🔡 LLM Projects </h1>
 
 
-
-
-## <h2 align="centre" id="heading"> How to Contribute to this Repository 🏗️ </h2>
+# <h2 align="center" id="heading2"> How to Contribute to this Repository 🏗️ </h2>
 
 Please fork this repository and make a PR to the `main` branch with the following template for your addition!
 
