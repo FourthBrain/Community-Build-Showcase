@@ -14,12 +14,21 @@ Hello, and welcome to a showcase of a number of *amazing* projects put together 
 
 ## <h2 align="centre" id="heading"> How to Contribute to this Repository 🏗️ </h2>
 
+Please fork this repository and make a PR to the `main` branch with the following template for your addition!
+
 If your project doesn't fit into an existing category - please feel free to add it along with your PR to add your project!
 
-\### `<<YOUR PROJECT NAME>>`
+PROJECT ADDITION TEMPLATE
+```
+### <<YOUR PROJECT NAME>>
 
-`<< SHORT PROJECT DESCRIPTION>>`
+<< SHORT PROJECT DESCRIPTION>>
 
-\<img src="<<`LINK TO AN IMAGE OF YOUR DEMO`>>"  width="200px" height="auto"/>
+<img src="<<LINK TO AN IMAGE OF YOUR DEMO>>"  width="200px" height="auto"/>
 
-\[`<<Description of Link>>`](`<<LINK TO YOUR PROJECT REPOSITORY>>`)
+[<<Description of Link>>](<<LINK TO YOUR PROJECT REPOSITORY>>)
+```
+CATEGORY ADDITION TEMPLATE
+```
+# <h1 align="center" id="heading"> :cool_emoji: NEW CATEGORY </h1>
+```
