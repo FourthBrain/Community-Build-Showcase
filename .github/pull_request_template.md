@@ -4,11 +4,12 @@ Please append your project to the end of your project category!
 
 The template will be as follows:
 
-### <<YOUR PROJECT NAME>>
-<< SHORT PROJECT DESCRIPTION>>
-  
-<img src="<< LINK TO AN IMAGE OF YOUR DEMO>>" 
-     width="200px"
-     height="auto"/>
+`### <<YOUR PROJECT NAME>>`
 
-[<<Description of Link>>](<<LINK TO YOUR PROJECT REPOSITORY>>)
+`<< SHORT PROJECT DESCRIPTION>>`
+  
+`<img src="<< LINK TO AN IMAGE OF YOUR DEMO>>" 
+     width="200px"
+     height="auto"/>`
+
+`[<<Description of Link>>](<<LINK TO YOUR PROJECT REPOSITORY>>)`
