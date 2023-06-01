@@ -33,9 +33,3 @@ CATEGORY ADDITION TEMPLATE
 ```
 # <h1 align="center" id="heading"> :cool_emoji: NEW CATEGORY </h1>
 ```
-
-
-| Project | Description | Video | Metrics                                                                                      |
-| :-------- | :-------- | :------------------------------------------------------------------------------------------------ | :-------- |
-| lorem  | lorem | lorem | lorem |
-| lorem  | lorem | lorem | lorem |
