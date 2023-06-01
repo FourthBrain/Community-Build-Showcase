@@ -25,7 +25,10 @@ PROJECT ADDITION TEMPLATE
 <img src="<<LINK TO AN IMAGE OF YOUR DEMO>>"  width="200px" height="auto"/>
 
 [<<Description of Link>>](<<LINK TO YOUR PROJECT REPOSITORY>>)
+
+[<<Description of Video Link>>](<<LINK TO YOUR PROJECT VIDEO DEMONSTRATION>>)
 ```
+
 CATEGORY ADDITION TEMPLATE
 ```
 # <h1 align="center" id="heading"> :cool_emoji: NEW CATEGORY </h1>
