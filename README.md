@@ -7,8 +7,22 @@
 
 Hello, and welcome to a showcase of a number of *amazing* projects put together by the talented people who have participated in FourthBrain's programs!
 
-# <h1 align="center" id="heading"> 🔡 LLM Projects </h1>
+# <h1 align="center" id="heading"> 🧪 Sample Project </h1>
 
+___
+
+### Sample Project
+A sample project linking to the DLAI/FB Event called: "Building with LLMs"
+
+<img src="https://i.imgur.com/fyB7DkJ.png"  width="650px" height="auto"/>
+
+[Building with Instruction-Tuned LLMs Repository](https://github.com/FourthBrain/Building-with-Instruction-Tuned-LLMs-A-Step-by-Step-Guide)
+
+[Event Video](https://www.youtube.com/watch?v=eTieetk2dSw)
+
+___
+
+# <h1 align="center" id="heading"> 🔡 LLM Projects </h1>
 
 # <h2 align="center" id="heading2"> How to Contribute to this Repository 🏗️ </h2>
 
@@ -18,6 +32,8 @@ If your project doesn't fit into an existing category - please feel free to add 
 
 PROJECT ADDITION TEMPLATE
 ```
+___
+     
 ### <<YOUR PROJECT NAME>>
 
 << SHORT PROJECT DESCRIPTION>>
@@ -27,6 +43,8 @@ PROJECT ADDITION TEMPLATE
 [<<Description of Link>>](<<LINK TO YOUR PROJECT REPOSITORY>>)
 
 [<<Description of Video Link>>](<<LINK TO YOUR PROJECT VIDEO DEMONSTRATION>>)
+     
+___
 ```
 
 CATEGORY ADDITION TEMPLATE
