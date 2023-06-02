@@ -40,9 +40,9 @@ ___
 
 <img src="<<LINK TO AN IMAGE OF YOUR DEMO>>"  width="200px" height="auto"/>
 
-[<<Description of Link>>](<<LINK TO YOUR PROJECT REPOSITORY>>)
+Repository: [<<Description of Link>>](<<LINK TO YOUR PROJECT REPOSITORY>>)
 
-[<<Description of Video Link>>](<<LINK TO YOUR PROJECT VIDEO DEMONSTRATION>>)
+Demo: [<<Description of Video Link>>](<<LINK TO YOUR PROJECT VIDEO DEMONSTRATION>>)
      
 ___
 ```
