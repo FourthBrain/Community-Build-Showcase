@@ -38,7 +38,7 @@ ___
 
 << SHORT PROJECT DESCRIPTION>>
 
-<img src="<<LINK TO AN IMAGE OF YOUR DEMO>>"  width="200px" height="auto"/>
+<img src="<<LINK TO AN IMAGE OF YOUR DEMO>>"  width="650px" height="auto"/>
 
 Repository: [<<Description of Link>>](<<LINK TO YOUR PROJECT REPOSITORY>>)
 
