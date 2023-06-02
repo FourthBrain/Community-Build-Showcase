@@ -16,9 +16,9 @@ A sample project linking to the DLAI/FB Event called: "Building with LLMs"
 
 <img src="https://i.imgur.com/fyB7DkJ.png"  width="650px" height="auto"/>
 
-[Building with Instruction-Tuned LLMs Repository](https://github.com/FourthBrain/Building-with-Instruction-Tuned-LLMs-A-Step-by-Step-Guide)
+Repository: [Building with Instruction-Tuned LLMs Repository](https://github.com/FourthBrain/Building-with-Instruction-Tuned-LLMs-A-Step-by-Step-Guide)
 
-[Event Video](https://www.youtube.com/watch?v=eTieetk2dSw)
+Demo: [Event Video](https://www.youtube.com/watch?v=eTieetk2dSw)
 
 ___
 
